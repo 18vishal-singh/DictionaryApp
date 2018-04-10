@@ -4,8 +4,11 @@ import javax.swing.table.DefaultTableModel;
 
 import java.awt.Dimension;
 import java.awt.event.*;
-import java .sql.*;
+import java.sql.*;
 
+/*
+@author:Vishal Singh
+*/
 public class Mydictionary  implements KeyListener, ActionListener
 {
 	final String fileName = "D:\\JAVA\\database\\db1.accdb";
